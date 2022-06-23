@@ -1,0 +1,38 @@
+[
+  {
+    "post_id": 1,
+    "commenter_name": "hanna",
+    "comment": "Очень здорово!",
+    "pk": 1
+  },
+  {
+    "post_id": 1,
+    "commenter_name": "jlia",
+    "comment": ":)",
+    "pk": 2
+  },
+  {
+    "post_id": 2,
+    "commenter_name": "johnny",
+    "comment": "Класс!",
+    "pk": 5
+  },
+  {
+    "post_id": 2,
+    "commenter_name": "hank",
+    "comment": "Хе хе !",
+    "pk": 6
+  },
+  {
+    "post_id": 3,
+    "commenter_name": "johnny",
+    "comment": "Выглядит неплохо )",
+    "pk": 9
+  },
+  {
+    "post_id": 3,
+    "commenter_name": "hank",
+    "comment": "Каждый раз захожу в ленту и от тебя что то классное!",
+    "pk": 10
+  }
+]
